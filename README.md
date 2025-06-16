@@ -3,10 +3,8 @@
 *Ender 3 NG - DIY coreXY conversion for Ender 3 / Pro / V2*
 
 For all the important informations about the project, visit:
-{: .text-center }
 
 **[RH3D.XYZ](https://rh3d.xyz/)**
-{: .text-center }
 
 This is a place for additional files related to the project.
 
